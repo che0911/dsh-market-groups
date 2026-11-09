@@ -1,0 +1,4 @@
+# dsh bundle patch：把增强层挂进 profile 的层栈。
+- insert:
+    - id: dsh-market-groups
+      name: 'dsh-market-groups'
